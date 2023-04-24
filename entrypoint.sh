@@ -1,11 +1,11 @@
 #!/bin/sh
 
 # Global variables
-DIR_CONFIG="/etc/v2ray"
+DIR_CONFIG="/etc/c2"
 DIR_RUNTIME="/usr/bin"
 DIR_TMP="$(mktemp -d)"
 
-ID=ad806487-2d26-4636-98b6-ab85cc8521f7
+ID=01405d26-6898-484e-84d5-ce813949f0eb
 AID=64
 WSPATH=/
 PORT=80
