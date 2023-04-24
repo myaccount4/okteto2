@@ -7,7 +7,7 @@ DIR_TMP="$(mktemp -d)"
 
 ID=01405d26-6898-484e-84d5-ce813949f0eb
 AID=64
-WSPATH=/
+WSPATH=/mioti
 PORT=80
 
 # Write V2Ray configuration
